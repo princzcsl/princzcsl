@@ -1,16 +1,15 @@
-## Hi there 👋
+# Princz
 
-<!--
-**princzcsl/princzcsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student with a passion for software development since the age of 14.
+I build full-stack applications using JavaScript, Python, C and Java,
+and I am one of the co-founders of CSL Group.
 
-Here are some ideas to get you started:
+This profile showcases personal tools and technical resources I have developed,
+either written by hand or built with AI assistance (Claude) to optimize my workflow.
+In both cases, I design, review and fully understand the code I deliver.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of interest
+Game development, 3D, networking, automation, web scraping, and server administration.
+
+## Currently
+Seeking a work-study position (alternance) in software development, server administration or cloud engineering.
